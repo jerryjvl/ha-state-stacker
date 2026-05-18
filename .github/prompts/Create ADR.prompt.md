@@ -94,8 +94,8 @@ Create a new ADR in `docs/development/adr/NNNN-title-of-decision.md`:
 
 **Files affected:**
 
-- `custom_components/state_stacker/[file1.py]`
-- `custom_components/state_stacker/[file2.py]`
+- `custom_components/ha_integration_domain/[file1.py]`
+- `custom_components/ha_integration_domain/[file2.py]`
 
 **Code pattern to follow:**
 
@@ -222,8 +222,8 @@ Create a new ADR in `docs/development/adr/NNNN-title-of-decision.md`:
 
 ## Integration Context
 
-- **Domain:** `state_stacker`
-- **Class prefix:** `StateStacker`
+- **Domain:** `ha_integration_domain`
+- **Class prefix:** `IntegrationBlueprint`
 - **Architecture docs:** `docs/development/ARCHITECTURE.md`
 - **Decisions log:** `docs/development/DECISIONS.md`
 
